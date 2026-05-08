@@ -1,0 +1,38 @@
+{
+  "product": "task-gamified-learning-procedures",
+  "sourceRank": {
+    "rank": 44,
+    "tier": "P2",
+    "score": 57,
+    "domain": "Game",
+    "ideaNo": 3,
+    "ideaName": "実用手順・学習・タスクゲーミフィケーション",
+    "repositoryName": "task-gamified-learning-procedures",
+    "publicTarget": "GitHub Pages / BOOTH",
+    "priorityReason": "学習/手順の差別化はあるが、ゲームとして成立させる設計コストが高い。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\Game\\created_idea_003_task-gamified-learning-procedures",
+  "exactZipPath": "D:\\AI\\Game\\created_idea_003_task-gamified-learning-procedures\\idea_003_task-gamified-learning-procedures.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "task-gamified-learning-procedures",
+  "metadataIdea": "実用手順・学習・タスクゲーミフィケーション",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}

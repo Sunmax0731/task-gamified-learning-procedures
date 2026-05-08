@@ -1,0 +1,17 @@
+{
+  "contentType": "playable-prototype",
+  "levels": [
+    {
+      "id": "level-001",
+      "name": "実用手順・学習・タスクゲーミフィケーション alpha stage",
+      "objective": "主要操作を確認する",
+      "status": "playable"
+    },
+    {
+      "id": "editor-001",
+      "name": "追加コンテンツ編集サンプル",
+      "objective": "タイトルと成功条件を入力する",
+      "status": "editable"
+    }
+  ]
+}

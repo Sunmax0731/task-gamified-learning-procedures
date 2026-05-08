@@ -1,0 +1,20 @@
+{
+  "name": "task-gamified-learning-procedures",
+  "version": "0.1.0-alpha.1",
+  "private": false,
+  "type": "module",
+  "description": "実用手順・学習・タスクゲーミフィケーション closed alpha prototype",
+  "scripts": {
+    "test": "node scripts/validate.mjs && node scripts/web-smoke.mjs",
+    "validate": "node scripts/validate.mjs",
+    "smoke:web": "node scripts/web-smoke.mjs",
+    "serve": "node scripts/serve.mjs",
+    "cli": "node src/cli/index.mjs"
+  },
+  "keywords": [
+    "Game",
+    "closed-alpha",
+    "qcds"
+  ],
+  "license": "MIT"
+}
