@@ -1,0 +1,13 @@
+{
+  "product": "task-gamified-learning-procedures",
+  "title": "実用手順・学習・タスクゲーミフィケーション",
+  "domain": "Game",
+  "ideaNo": 3,
+  "platformType": "browser-web",
+  "expectedPublicTarget": "GitHub Pages / BOOTH",
+  "browser": {
+    "evidence": "dist/web-smoke-result.json"
+  },
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
